@@ -73,3 +73,11 @@ __attemptHTMLDecode__
   - attemptHTMLDecode: Boolean _optional_
     - Will attempt to convert HTML-encoded values back into a visually clear, decoded value
     - E.g. `&lt;abc&gt;hi&lt;/abc&gt;` will be converted to `<abc>hi</abc>`
+
+---
+## Test
+
+To view test results, simply open `index.html` in your browser
+
+![alt text](test/image/test_preview.png "Logo Title Text 1")
+
