@@ -217,7 +217,7 @@ class MLCleaner {
         return settings;
     }
 }
-MLCleaner.Version = "0.1.31";
+MLCleaner.Version = "0.1.32";
 MLCleaner.URLCapableAttributeNames = ["lowsrc", "dynsrc", "href", "codebase", "cite", "background", "action", "longdesc", "src", "profile", "usemap", "classid", "data", "formaction", "icon", "manifest", "poster"];
 MLCleaner.TagsContentIgnoreEscapes = ["script", "style"];
 MLCleaner.Helpers = {

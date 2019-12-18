@@ -17,7 +17,7 @@ enum MLNodeType{
 
 class MLCleaner{
 
-    public static Version = "0.1.31";
+    public static Version = "0.1.32";
 
     private static URLCapableAttributeNames = ["lowsrc","dynsrc","href","codebase","cite","background","action","longdesc","src","profile","usemap","classid","data","formaction","icon","manifest","poster"];
     private static TagsContentIgnoreEscapes = ["script","style"];
